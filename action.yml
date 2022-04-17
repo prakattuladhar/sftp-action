@@ -46,7 +46,7 @@ inputs:
     description: 'Define a passphrase for encrypted private keys'
     required: false
   exclude:
-    description: 'Exclude files and directories if uplaoding a dirctory'
+    description: 'Exclude files and directories if uploading a dirctory'
     required: false
     default: '[]'
   debug:
